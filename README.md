@@ -46,7 +46,7 @@
 |カメラ|Intel RealSense D435i|
 |マイク||
 |カメラ||
-|IoTデバイス|M5stack 
+|IoTデバイス|M5stack Basic|
 
 
 # 1. 開発環境
