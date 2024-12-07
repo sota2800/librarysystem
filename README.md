@@ -206,13 +206,14 @@ Webページを制御するコンポーネント．Controlestateから受け取�
 | -------- | ---------|-------------------------------- |
 |Callstaff|boolean|Trueを受け取るとIoTデバイスに通信を送り職員を呼び出す．|
 
-# 8. コンポーネントの接続
+# 6. コンポーネントの接続
 本コンポーネントは以下のように接続する．各コンポーネントにあるoutportのcontrolesotaはコンポーネントSota_controleのinportのtextにつなげる.
  
 ![image](https://github.com/user-attachments/assets/f7f9cdad-ecba-4009-a816-7b0e8b3d0457)
 
-# 9. 使用する際の注意事項
+# 7. 使用する際の注意事項
 microsoft azure のAPIキーは，keyphase.py,vocerecog.py,selenium.py,select.pyのspeechsdk.SpeechConfig()のsubscriptionに代入してください
+controlestate.pyの235-242行目に各コンポーネントのパスをsubprocess.Popen()のcdwに代入してください
 
 
 
