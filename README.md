@@ -209,7 +209,7 @@ Webページを制御するコンポーネント．Controlestateから受け取�
 |Callstaff|boolean|Trueを受け取るとIoTデバイスに通信を送り職員を呼び出す．|
 
 # 6. コンポーネントの接続
-本コンポーネントは以下のように接続する．各コンポーネントにあるoutportのcontrolesotaはコンポーネントSota_controleのinportのtextにつなげる.
+本コンポーネントは以下のように接続する．
  
 ![image](https://github.com/user-attachments/assets/f7f9cdad-ecba-4009-a816-7b0e8b3d0457)
 
