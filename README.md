@@ -190,9 +190,10 @@ Webページを制御するコンポーネント．Controlestateから受け取�
 
 # 8. コンポーネントの接続
 本コンポーネントは以下のように接続する．各コンポーネントにあるoutportのcontrolesotaはコンポーネントSota_controleのinportのtextにつなげる.
-  
-![image](https://github.com/sota2800/rtm/assets/141693046/6bf2ebc5-70bc-4983-9279-b53df679c435)
-#9. 使用する際の注意事項
+ 
+![image](https://github.com/user-attachments/assets/f7f9cdad-ecba-4009-a816-7b0e8b3d0457)
+
+# 9. 使用する際の注意事項
 microsoft azure のAPIキーは，keyphase.py,vocerecog.py,selenium.py,select.pyのspeechsdk.SpeechConfig()のsubscriptionに代入してください
 
 
