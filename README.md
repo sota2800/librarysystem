@@ -214,8 +214,9 @@ Webページを制御するコンポーネント．Controlestateから受け取�
 ![image](https://github.com/user-attachments/assets/f7f9cdad-ecba-4009-a816-7b0e8b3d0457)
 
 # 7. 使用する際の注意事項
-microsoft azure のAPIキーは，keyphase.py,vocerecog.py,selenium.py,select.pyのspeechsdk.SpeechConfig()のsubscriptionに代入してください
-controlestate.pyの235-242行目に各コンポーネントのパスをsubprocess.Popen()のcdwに代入してください
+microsoft azure のAPIキーは，keyphase.py,vocerecog.py,selenium.py,select.pyのspeechsdk.SpeechConfig()のsubscriptionに代入してください.
+
+controlestate.pyの235-242行目に各コンポーネントのパスをsubprocess.Popen()のcdwに代入してください.
 
 
 
