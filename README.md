@@ -198,7 +198,7 @@ Webページを制御するコンポーネント．Controlestateから受け取�
 |Log|string|ユーザが使用したサービス名をstringで受け取る.|
 
 ## 8. Callstaff
-職員を呼び出すコンポーネント
+職員を呼び出すコンポーネント.IoTデバイスはM5Stack Basicを使用した. 
 
 **Dataset**
 
